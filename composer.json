@@ -3,7 +3,7 @@
     "type": "symfony-bundle",
     "description": "Sphinx search bundle for Symfony 2",
     "keywords": ["sphinx", "sphinxsearch", "symfony2"],
-    "homepage": "https://github.com/IAkumaI/SphinxsearchBundle",
+    "homepage": "https://github.com/rosh1ck/SphinxsearchBundle",
     "license": "MIT",
     "authors": [
         {
