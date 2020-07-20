@@ -13,7 +13,7 @@ services:
     # Doctrine Bridge
     iakumai.sphinxsearch.doctrine.bridge:
         class: '%iakumai.sphinxsearch.doctrine.bridge.class%'
-        arguments: ['@service_container', %'iakumai.sphinxsearch.doctrine.entity_manager%', '%iakumai.sphinxsearch.indexes%']
+        arguments: ['@service_container', '%iakumai.sphinxsearch.doctrine.entity_manager%', '%iakumai.sphinxsearch.indexes%']
 
     # Twig extension
     iakumai.sphinxsearch.twig.extension_0:
