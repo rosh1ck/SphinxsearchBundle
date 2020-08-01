@@ -1,7 +1,9 @@
 SphinxsearchBundle
 ==================
 
-With this bundle you can use Sphinx to search in your Symfony2 project.
+This bundle fork and update for Symfony3.
+
+Original page: https://github.com/IAkumaI/SphinxsearchBundle
 
 Installation
 ------------
