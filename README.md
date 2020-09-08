@@ -15,7 +15,7 @@ In your composer.json, add SphinxsearchBundle:
 ```js
 {
     "require": {
-        "iakumai/sphinxsearch-bundle": "dev-master"
+        "roshc1k/sphinxsearch-bundle": "dev-master"
     }
 }
 ```
